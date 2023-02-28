@@ -1,0 +1,1 @@
+It is an exemple of file commited to test the API github with our AREA
